@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/97990379/172035984-f759b36c-d6d0-4c23-
 ## Author
 Anthony Ledesma
 
-## copyright 
+## Copyright 
 The MIT License (MIT)
 
 
