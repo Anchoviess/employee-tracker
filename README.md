@@ -1,4 +1,4 @@
-# employee-tracker
+# Employee-tracker
 
 MySQL-Employee-Tracker is an interface command program that make it easy for non-developers to view and interact with information stored in databases. This interface is a good example of a Content Management Systems; a command line application for managing a company's employees using node, inquirer, and MySQL.
 
@@ -39,6 +39,7 @@ Application tree structure: The application is user friendly and built to handle
     
 ### Dependencies
 
+
 <img width="564" alt="Screen Shot 2022-06-04 at 10 00 42 PM" src="https://user-images.githubusercontent.com/97990379/172035848-c363b756-fcde-4e7a-9c6e-5f7e4febfaee.png">
 
 
@@ -48,11 +49,16 @@ inquirer
 mysql2
 
 ## Demonstration
+https://user-images.githubusercontent.com/97990379/172035984-f759b36c-d6d0-4c23-bf4d-afa0c8eafd49.mov
 
 ## Author
 Anthony Ledesma
 
 ## copyright 
 The MIT License (MIT)
+
+
+
+
 
 
