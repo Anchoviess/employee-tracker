@@ -51,7 +51,7 @@ mysql2
 ## Demonstration
 https://user-images.githubusercontent.com/97990379/172035984-f759b36c-d6d0-4c23-bf4d-afa0c8eafd49.mov
 
-youtube link better quality: 
+Youtube link better with quality: 
 
 https://youtu.be/szZFibtcc4U
 
